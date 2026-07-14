@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+
+# Config
+config/
+
+# Environment
+.env
